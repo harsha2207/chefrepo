@@ -1,6 +1,6 @@
 # tomcat Cookbook
 
-[![Build Status](https://travis-ci.org/chef-cookbooks/tomcat.svg?branch=master)](https://travis-ci.org/chef-cookbooks/tomcat) [![Cookbook Version](https://img.shields.io/cookbook/v/tomcat.svg)](https://supermarket.chef.io/cookbooks/tomcat)
+[![Build Status](https://dev.azure.com/harshavalaboju/VHV/_apis/build/status/harsha2207.chefrepo?branchName=master)](https://dev.azure.com/harshavalaboju/VHV/_build/latest?definitionId=1&branchName=master)
 
 Provides resources for installing Tomcat and managing the Tomcat service for use in wrapper cookbooks. Installs Tomcat from tarballs on the Apache.org website and installs the appropriate configuration for your platform's init system.
 
